@@ -1,3 +1,3 @@
 # jetson-nano
-Login\n
+Login:\
 ssh jetsmorz@55555
